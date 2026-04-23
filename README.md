@@ -808,10 +808,10 @@ These skillsâ€”problem specification, evaluation design, baseline establishmentâ
 
 Complete source code, test datasets, and documentation available at:
 GitHub:https://github.com/VANSHI200/planlens-Prompt-Project <br>
-Live Demo: https://[YOUR_USERNAME].github.io/planlens-401k-qa
-Video Demonstration: [YouTube/Loom URL]
+Live Demo: https://[YOUR_USERNAME].github.io/planlens-401k-qa<br>
+Video Demonstration: [YouTube/Loom URL]<br>
 
-Report prepared for: INFO 7375-01: Prompt Engineering & Generative AI
- Instructor: Prof. Nik Brown
- Submission Date: April 24, 2026
- Total Pages: 12
+Report prepared for: INFO 7375-01: Prompt Engineering & Generative AI<br>
+ Instructor: Prof. Nik Brown<br>
+ Submission Date: April 24, 2026<br>
+ Total Pages: 12<br>
