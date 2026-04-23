@@ -806,17 +806,12 @@ These skillsâ€”problem specification, evaluation design, baseline establishmentâ
 
 ## Appendix C: Code Availability
 
-Complete source code, test datasets, and documentation available at:  
-**GitHub**: https://github.com/[YOUR_USERNAME]/planlens-401k-qa
+Complete source code, test datasets, and documentation available at:
+GitHub:https://github.com/VANSHI200/planlens-Prompt-Project 
+Live Demo: https://[YOUR_USERNAME].github.io/planlens-401k-qa
+Video Demonstration: [YouTube/Loom URL]
 
-**Live Demo**: https://[YOUR_USERNAME].github.io/planlens-401k-qa
-
-**Video Demonstration**: [YouTube/Loom URL]
-
----
-
-**Report prepared for:** INFO 7375-01: Prompt Engineering & Generative AI  
-**Instructor:** [Professor Name]  
-**Submission Date:** April 24, 2026  
-**Total Pages:** 12  
-**Word Count:** ~4,500
+Report prepared for: INFO 7375-01: Prompt Engineering & Generative AI
+ Instructor: Prof. Nik Brown
+ Submission Date: April 24, 2026
+ Total Pages: 12
