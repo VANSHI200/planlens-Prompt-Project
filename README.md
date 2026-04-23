@@ -807,7 +807,7 @@ These skillsâ€”problem specification, evaluation design, baseline establishmentâ
 ## Appendix C: Code Availability
 
 Complete source code, test datasets, and documentation available at:
-GitHub:https://github.com/VANSHI200/planlens-Prompt-Project 
+GitHub:https://github.com/VANSHI200/planlens-Prompt-Project <br>
 Live Demo: https://[YOUR_USERNAME].github.io/planlens-401k-qa
 Video Demonstration: [YouTube/Loom URL]
 
